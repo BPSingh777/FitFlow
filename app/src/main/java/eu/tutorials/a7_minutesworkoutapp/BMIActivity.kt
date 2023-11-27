@@ -1,3 +1,5 @@
+// This activity is responsible for calculating and displaying the user's Body Mass Index (BMI) based on their height and weight inputs.
+
 package eu.tutorials.a7_minutesworkoutapp
 
 import android.os.Bundle
