@@ -1,3 +1,4 @@
+//  Defines the data for exercises, providing a structured way to represent exercise information.
 package eu.tutorials.a7_minutesworkoutapp
 
 import android.annotation.SuppressLint
