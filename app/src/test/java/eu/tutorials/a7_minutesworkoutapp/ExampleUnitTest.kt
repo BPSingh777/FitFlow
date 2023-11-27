@@ -1,5 +1,5 @@
 package eu.tutorials.a7_minutesworkoutapp
-
+// Importing junit for testing
 import org.junit.Test
 
 import org.junit.Assert.*
