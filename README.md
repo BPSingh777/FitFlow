@@ -49,45 +49,5 @@ RecyclerView for displaying lists of exercises and history items
 Contributions
 We welcome contributions from the community to enhance the WorkOutApp. If you have ideas for improvements or would like to report issues, please feel free to open an issue or submit a pull request.
 
-# PoseNet Position Detection
-
-![Sample Output](pose_estiatmion/output.JPG)
-
-## Introduction
-
-This repository contains a PoseNet-based position detection project for tracking body poses in images or video. PoseNet is a machine learning model that can estimate human poses in real-time. This project utilizes PoseNet to detect key body positions and provide insights into body posture during various activities.
-
-## Use of Position Tracker in Yoga/Exercise
-
-The PoseNet position tracker can be employed in yoga and exercise routines to monitor and analyze body positions. By leveraging the capabilities of PoseNet, this tool helps users:
-
-- Ensure correct posture during yoga sessions.
-- Track exercise positions for precise form.
-- Receive real-time feedback on body alignment.
-
-## Features of PoseNet
-
-- Real-time body pose estimation.
-- Key points detection, including nose, eyes, shoulders, elbows, wrists, hips, knees, and ankles.
-- Configurable for images or video input.
-- Integration with yoga/exercise routines for accurate pose tracking.
-
-## Output
-
-The output of this project includes visualizations of body poses, highlighting key points. Below is a sample output:
-
-![Sample Output](pose_estiatmion/output.JPG)
-
-
-Feel free to explore and customize the project based on your specific requirements.
-
-## Acknowledgments
-
-- PoseNet: [Link to PoseNet Documentation](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
-
-]
-
-
-
 
 Happy exercising! 💪🏋️‍♀️🏃‍♂️
